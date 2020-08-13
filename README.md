@@ -1,8 +1,8 @@
 # ArduinoUno-hearbeatmonitor
 A heart beat monitoring device with heart-beat sensor made by using Arduino Uno.
 
-A)  Equiment:
-An Arduino uno device, heart-beat sensor, Jumper wires, Bread-board, LCD Display 16 x 2.
+A)  Equipment:
+An Arduino uno device, heart-beat sensor, Jumper wires, Bread-board, LCD Display 16 x 2, Laptop for uploading the code to Arduino.
 
 B)	Circuit Description:
 The full circuit has been constructed in three steps: The connection of the +5V and GND to the bread board, the connection of the LCD to the breadboard, the connection of the Pulse sensor to Arduino board and bread board
